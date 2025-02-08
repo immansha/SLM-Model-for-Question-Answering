@@ -30,7 +30,7 @@ To use this project, ensure you have the following libraries installed:
 You can install these dependencies with the following command:
 ```bash
 pip install transformers torch sentencepiece PyPDF2 sentence-transformers faiss-cpu gradio
-
+```
 
 
 
