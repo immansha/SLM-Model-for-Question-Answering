@@ -70,6 +70,7 @@ pdf_path = "path/to/your/pdf/document.pdf"
 ### 4. Interact with the Chatbot
 Once the app launches, you can enter questions in the Gradio interface. The chatbot will respond with answers extracted from the PDF content.
 
+
 ---
 
 
